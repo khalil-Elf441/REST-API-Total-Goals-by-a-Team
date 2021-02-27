@@ -1,4 +1,4 @@
-In this challenge, the REST API contains information about football matches. The provided API allows querying matches by teams and year. Your task is to get the total number of goals scored by a given team in a given year.
+the REST API contains information about football matches. The provided API allows querying matches by teams and year. Your task is to get the total number of goals scored by a given team in a given year.
 
 <p>To access a collection of matches, perform GET requests to</p>
 
